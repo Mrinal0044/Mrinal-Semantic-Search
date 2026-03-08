@@ -355,7 +355,7 @@ python analysis/cluster_visualization.py
 
 This produces a scatter plot showing semantic topic clusters and their boundaries across the corpus.
 
-![Semantic Clusters of 20 Newsgroups Dataset](cluster_visualization.png)
+![Semantic Clusters of 20 Newsgroups Dataset](<img width="764" height="583" alt="Image" src="https://github.com/user-attachments/assets/1ed9a828-1137-4c15-87e0-7828354d4426" />)
 
 > Each color represents a GMM cluster. Notice the tight isolated clusters (e.g., pink at top, orange at bottom-left) representing highly cohesive topics, while the dense overlapping region in the center reflects semantically similar or cross-topical newsgroup content.
 
@@ -418,6 +418,4 @@ INFO: Performing vector search
 
 ---
 
-## License
 
-MIT
